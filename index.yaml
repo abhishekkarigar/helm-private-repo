@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  springboot-demoweb:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-07-14T01:18:48.3747133+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 8d47255d558e22e14bd75a85da4558a6746c2d5f3382f7658b2f8edef51dda68
+    name: springboot-demoweb
+    urls:
+    - https://github.com/abhishekkarigar/helm-private-repo/springboot-demoweb-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-14T01:18:48.3727611+05:30"
